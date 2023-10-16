@@ -1,0 +1,16 @@
+html{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* p,li,h1{
+    color:red;
+    
+} */
+/* Css via ID */
+#principal{
+    color: red;
+}
+body{
+    margin: 200px;
+}
